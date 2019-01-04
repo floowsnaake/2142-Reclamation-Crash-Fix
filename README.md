@@ -12,10 +12,5 @@ youtube video:
 https://youtu.be/VTH7ua6CeGA
 
 
-if it still crashes then run/install these files on your computer
-https://github.com/floowsnaake/2142-Reclamation-Crash-Fix/blob/master/vc_redist.x64.exe
-https://github.com/floowsnaake/2142-Reclamation-Crash-Fix/blob/master/vc_redist.x86.exe
-https://github.com/floowsnaake/2142-Reclamation-Crash-Fix/blob/master/dxwebsetup.exe
-https://github.com/floowsnaake/2142-Reclamation-Crash-Fix/blob/master/NDP472-KB4054531-Web.exe
+if it still crashes then run/installers in the setup folder and then restart your computer
 
-then restart your computer
